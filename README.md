@@ -1,5 +1,4 @@
-- 3D design and coding
-- currently learning python for data science
+Learning python for data science. Check out my portfolio/linktree for previous work.
 
 
 <!---
