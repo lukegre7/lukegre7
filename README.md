@@ -1,4 +1,4 @@
-Learning python for data science. Check out my portfolio/linktree for previous work.
+
 
 
 <!---
